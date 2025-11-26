@@ -1,0 +1,5 @@
+/* styles/module.css */
+.cte-enhanced {
+  color: var(--accent-color);
+  font-weight: 600;
+}
