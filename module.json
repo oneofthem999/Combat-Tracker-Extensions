@@ -24,7 +24,7 @@
       "path": "languages/en.json"
     }
   ],
-  "url": "https://github.com/AlexBlankComposer/Combat-Tracker-Extensions",
-  "manifest": "https://raw.githubusercontent.com/AlexBlankComposer/Combat-Tracker-Extensions/main/module.json",
-  "download": "https://github.com/AlexBlankComposer/Combat-Tracker-Extensions/archive/refs/heads/main.zip"
+  "url": "https://github.com/oneofthem999/Combat-Tracker-Extensions",
+  "manifest": "https://raw.githubusercontent.com/oneofthem999/Combat-Tracker-Extensions/main/module.json",
+  "download": "https://github.com/oneofthem999/Combat-Tracker-Extensions/archive/refs/heads/main.zip"
 }
